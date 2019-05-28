@@ -12,7 +12,7 @@ class Dog
   end
   
   def self.all 
-    put @@all.collect {|dog| dog.name} 
+    puts @@all.collect {|dog| dog.name} 
   end 
   
   def self.clear_all
