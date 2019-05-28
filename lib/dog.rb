@@ -1,6 +1,8 @@
 class Dog 
   
-  @@all = 0 
+  @@all =[]
+  
+  
   
   
 end
